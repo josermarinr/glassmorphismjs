@@ -14,7 +14,7 @@ function glassmorphism(options) {
     default:
       options.blur = '5px'
   }
-
+  //no obligatorio
   switch (options.transparency) {
     case 'hard':
       options.transparency = '0.7'
